@@ -1,0 +1,19 @@
+{
+  "name": "ci-test",
+  "version": "0.1.2",
+  "description": "ci test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiangshouding/ci-test.git"
+  },
+  "author": "fansekey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangshouding/ci-test/issues"
+  },
+  "homepage": "https://github.com/xiangshouding/ci-test"
+}
